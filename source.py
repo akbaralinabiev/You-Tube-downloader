@@ -2,7 +2,7 @@ from pytube import YouTube
 import os
 
 # URL of the video to download
-url = "https://youtu.be/gYVg80ptU0M"
+url = "put here"
 
 # Download the video
 yt = YouTube(url)
